@@ -1,4 +1,4 @@
-# EmotionAI
+# EmotionsAI
 INTEGRANTES:
 Carlos Andrés Gutiérrez Benavides - 2200184
 Juan David Marin Barragán - 2200157
