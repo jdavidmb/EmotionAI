@@ -24,7 +24,7 @@ El siguiente dataset cuenta con 35 685 ejemplos de imágenes de caras en escala 
 
 Enlaces importantes:
 
-    Video: https://youtu.be/O8f0QxrebMQ
+    Video youtube: https://youtu.be/O8f0QxrebMQ
     
     Presentación: https://gamma.app/docs/Proyecto-de-Machine-y-Deep-Learning-para-la-clasificacion-de-emoc-bgrc975kwrvb9lp
 
