@@ -22,4 +22,9 @@ El siguiente dataset cuenta con 35 685 ejemplos de imágenes de caras en escala 
 
   Algoritmos No Supervisados (Agglomerative Clustering, K-Means)
 
-Link de la presentación: https://gamma.app/docs/Proyecto-de-Machine-y-Deep-Learning-para-la-clasificacion-de-emoc-bgrc975kwrvb9lp
+Enlaces importantes:
+
+    Video: https://youtu.be/O8f0QxrebMQ
+    
+    Presentación: https://gamma.app/docs/Proyecto-de-Machine-y-Deep-Learning-para-la-clasificacion-de-emoc-bgrc975kwrvb9lp
+
